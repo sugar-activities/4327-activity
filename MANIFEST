@@ -1,0 +1,9 @@
+
+setup.py
+COPYING
+restore.py
+activity/Restore_icon.svg
+activity/activity.info
+activity/mimetypes.xml
+icons/journal-import.svg
+zipfile26.py

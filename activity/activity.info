@@ -1,0 +1,9 @@
+[Activity]
+name = Restore
+activity_version = 3
+bundle_id = org.sugarlabs.Restore
+exec = sugar-activity restore.RestoreActivity
+icon = Restore_icon
+mime_types = application/vnd.sugar-multi-journal-entry
+license = GPLv3
+
